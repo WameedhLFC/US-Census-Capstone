@@ -1,0 +1,13 @@
+[0m[[0m[31merror[0m] [0m[0mC:\Users\wamee\Documents\GitHub\US-Census-Capstone\src\main\scala\s3.scala:21:73: not found: value accessKey[0m
+[0m[[0m[31merror[0m] [0m[0m        spark.sparkContext.hadoopConfiguration.set("fs.s3a.access.key", accessKey)[0m
+[0m[[0m[31merror[0m] [0m[0m                                                                        ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\wamee\Documents\GitHub\US-Census-Capstone\src\main\scala\s3.scala:22:73: not found: value secretAccessKey[0m
+[0m[[0m[31merror[0m] [0m[0m        spark.sparkContext.hadoopConfiguration.set("fs.s3a.secret.key", secretAccessKey)[0m
+[0m[[0m[31merror[0m] [0m[0m                                                                        ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\wamee\Documents\GitHub\US-Census-Capstone\src\main\scala\s3.scala:114:29: not found: value bucket[0m
+[0m[[0m[31merror[0m] [0m[0m            .save(s"s3a://${bucket}/census_2020_2")[0m
+[0m[[0m[31merror[0m] [0m[0m                            ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\wamee\Documents\GitHub\US-Census-Capstone\src\main\scala\s3.scala:117:62: not found: value bucket[0m
+[0m[[0m[31merror[0m] [0m[0m        val parquet_2_2020_s3 = spark.read.parquet(s"s3a://${bucket}/census_2020_2")[0m
+[0m[[0m[31merror[0m] [0m[0m                                                             ^[0m
+[0m[[0m[31merror[0m] [0m[0mfour errors found[0m

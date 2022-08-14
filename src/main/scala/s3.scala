@@ -3,7 +3,7 @@ package example
 import org.apache.spark.sql.SparkSession
 
 object s3 {
-    def main(args:Array[String]) {
+    def main(args:Array[String]): Unit = {
         val spark: SparkSession = SparkSession
             .builder()
             .master("local[3]")

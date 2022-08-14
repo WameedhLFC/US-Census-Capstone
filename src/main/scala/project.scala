@@ -53,8 +53,8 @@ object project{
             val document: Document = Jsoup.connect(url).get()
             val states: Elements = document.select("tbody tr td a")
             val stateNames = for(state <- states.asScala) yield (state.text)
-            val filteredStateNames=stateNames.filter(_.contains("/"))
-            val links = for (urlZip<- filteredStateNames) yield {url+ urlZip}
+            val filteredStateNames = stateNames.filter(_.contains("/"))
+            val links = for (urlZip <- filteredStateNames) yield {url+ urlZip}
            
 
             val zip_links = for (link <- links) yield Jsoup.connect(link).get()
@@ -176,9 +176,5 @@ object project{
         unZipAll(zipLinks2020, zipsFolder2020, perlFolder2020)
         
 
-        
-    
-    
-   
-}
+  }
 }

@@ -1,4 +1,4 @@
-[debug] [census_project_git-build] Classpath dependencies List()
-[debug] [census_project_git-build] Dependencies from configurations List()
-[debug] Bloop wrote the configuration of project 'census_project_git-build' to 'C:\Users\Home\Desktop\reskillng\census_project_git\project\.bloop\census_project_git-build.json'
-[success] Generated .bloop\census_project_git-build.json
+[debug] [us-census-capstone-build] Classpath dependencies List()
+[debug] [us-census-capstone-build] Dependencies from configurations List()
+[debug] Bloop wrote the configuration of project 'us-census-capstone-build' to 'C:\Users\wamee\Documents\GitHub\US-Census-Capstone\project\.bloop\us-census-capstone-build.json'
+[success] Generated .bloop\us-census-capstone-build.json

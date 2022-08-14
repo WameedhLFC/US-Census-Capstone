@@ -1,2 +1,46 @@
-[0m[[0m[0mdebug[0m] [0m[0mCreated transactional ClassFileManager with tempDir = C:\Users\Home\Desktop\reskillng\census_project\target\scala-2.11\classes.bak[0m
-[0m[[0m[0mdebug[0m] [0m[0mRemoving the temporary directory used for backing up class files: C:\Users\Home\Desktop\reskillng\census_project\target\scala-2.11\classes.bak[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreated transactional ClassFileManager with tempDir = C:\Users\wamee\Documents\GitHub\US-Census-Capstone\target\scala-2.11\classes.bak[0m
+[0m[[0m[0mdebug[0m] [0m[0mAbout to delete class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	project.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	project$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	project$$anonfun$6.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	project$$anonfun$7.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	project$$anonfun$5.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	project$$anonfun$downloadFiles$1$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	readCsvToParque.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	project$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	project$$anonfun$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	project$$anonfun$unZipAll$1$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	readCsvToParque$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	project$$anonfun$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	project$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mWe backup class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	project.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	project$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	project$$anonfun$6.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	project$$anonfun$7.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	project$$anonfun$5.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	project$$anonfun$downloadFiles$1$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	readCsvToParque.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	project$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	project$$anonfun$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	project$$anonfun$unZipAll$1$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	readCsvToParque$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	project$$anonfun$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	project$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mRolling back changes to class files.[0m
+[0m[[0m[0mdebug[0m] [0m[0mRemoving generated classes:[0m
+[0m[[0m[0mdebug[0m] [0m[0mRestoring class files: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	project$$anonfun$6.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	project$$anonfun$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	project$$anonfun$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	project$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	project.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	project$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	project$$anonfun$5.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	readCsvToParque.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	project$$anonfun$downloadFiles$1$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	project$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	project$$anonfun$7.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	project$$anonfun$unZipAll$1$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	readCsvToParque$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mRemoving the temporary directory used for backing up class files: C:\Users\wamee\Documents\GitHub\US-Census-Capstone\target\scala-2.11\classes.bak[0m
